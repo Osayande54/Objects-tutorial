@@ -12,3 +12,8 @@ setTimeout(() => {
 setTimeout(() => {
   console.log("My name is Omorogiuwa");
 }, 1000);
+
+// Callbackhell
+setTimeout(() => {
+  console.log("My name is Memefi");
+}, 1000);
